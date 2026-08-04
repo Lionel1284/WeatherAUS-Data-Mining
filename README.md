@@ -1,10 +1,10 @@
-# 🌦️ WeatherAUS Data Mining
+# WeatherAUS Data Mining
 
 > **Proyecto de Minería de Datos desarrollado sobre el conjunto de datos WeatherAUS, aplicando la metodología CRISP-DM para el análisis, preparación y modelado de datos climáticos mediante técnicas de aprendizaje automático y visualización de resultados.**
 
 ---
 
-# 📌 Tabla de Contenidos
+# Tabla de Contenidos
 
 - [Acerca del Proyecto](#-acerca-del-proyecto)
 - [Objetivos](#-objetivos)
@@ -21,7 +21,7 @@
 
 ---
 
-# 📖 Acerca del Proyecto
+# Acerca del Proyecto
 
 Este proyecto corresponde al desarrollo de un proceso completo de **Minería de Datos** utilizando el conjunto de datos **WeatherAUS**, siguiendo la metodología **CRISP-DM** para comprender, preparar y analizar información climática proveniente de distintas estaciones meteorológicas de Australia.
 
@@ -31,7 +31,7 @@ Como complemento al análisis realizado en Python, el proyecto incorpora un **Da
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
 - Analizar el comportamiento de las variables meteorológicas presentes en el conjunto de datos.
 - Preparar los datos mediante procesos de limpieza, transformación y selección de variables.
@@ -42,7 +42,7 @@ Como complemento al análisis realizado en Python, el proyecto incorpora un **Da
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 El proyecto utiliza el conjunto de datos **WeatherAUS**, ampliamente utilizado en investigaciones y proyectos de minería de datos relacionados con el análisis climático.
 
@@ -60,7 +60,7 @@ El análisis se centra principalmente en la predicción de la variable objetivo 
 
 ---
 
-# 🧠 Metodología
+# Metodología
 
 El proyecto fue desarrollado siguiendo la metodología **CRISP-DM (Cross Industry Standard Process for Data Mining)**, estructurando el proceso en cinco fases principales:
 
@@ -74,7 +74,7 @@ El proyecto fue desarrollado siguiendo la metodología **CRISP-DM (Cross Industr
 
 ---
 
-# 📓 Contenido del Cuaderno
+# Contenido del Cuaderno
 
 El notebook **ET_PreparandoDatosClimaticos_DataMining.ipynb** documenta paso a paso todo el proceso de minería de datos desarrollado durante el proyecto, incluyendo:
 
@@ -98,7 +98,7 @@ El notebook **ET_PreparandoDatosClimaticos_DataMining.ipynb** documenta paso a p
 
 ---
 
-# 🤖 Modelos Implementados
+# Modelos Implementados
 
 Durante el proyecto se implementaron distintos algoritmos de minería de datos con el propósito de abordar problemas de clasificación, regresión y agrupamiento.
 
@@ -112,24 +112,24 @@ Cada modelo fue evaluado mediante métricas apropiadas para su tipo de problema,
 
 ---
 
-# 📌 Resultados del Proyecto
+# Resultados del Proyecto
 
 El desarrollo de este proyecto permitió recorrer de manera completa el proceso de minería de datos propuesto por la metodología **CRISP-DM**, obteniendo resultados relevantes tanto desde el punto de vista analítico como predictivo.
 
 Entre los principales logros alcanzados destacan:
 
-- ✅ Comprensión del comportamiento de las variables meteorológicas presentes en el conjunto de datos WeatherAUS.
-- ✅ Identificación de problemas de calidad de datos, tales como valores faltantes, variables redundantes y posibles casos de fuga de información (*Data Leakage*).
-- ✅ Preparación del conjunto de datos mediante procesos de limpieza, transformación, codificación y escalamiento para mejorar su calidad antes del modelado.
-- ✅ Implementación y comparación de distintos algoritmos de clasificación, regresión y clustering, evaluando sus fortalezas y limitaciones mediante métricas específicas para cada problema.
-- ✅ Identificación de patrones y relaciones entre variables meteorológicas a partir del análisis exploratorio de datos y de los modelos desarrollados.
-- ✅ Desarrollo de un Dashboard Ejecutivo en Power BI para comunicar de forma visual los principales indicadores y resultados obtenidos durante el análisis.
+- Comprensión del comportamiento de las variables meteorológicas presentes en el conjunto de datos WeatherAUS.
+- Identificación de problemas de calidad de datos, tales como valores faltantes, variables redundantes y posibles casos de fuga de información (*Data Leakage*).
+- Preparación del conjunto de datos mediante procesos de limpieza, transformación, codificación y escalamiento para mejorar su calidad antes del modelado.
+- Implementación y comparación de distintos algoritmos de clasificación, regresión y clustering, evaluando sus fortalezas y limitaciones mediante métricas específicas para cada problema.
+- Identificación de patrones y relaciones entre variables meteorológicas a partir del análisis exploratorio de datos y de los modelos desarrollados.
+- Desarrollo de un Dashboard Ejecutivo en Power BI para comunicar de forma visual los principales indicadores y resultados obtenidos durante el análisis.
 
 El detalle completo del proceso, las decisiones metodológicas adoptadas y la interpretación de los resultados se encuentra documentado en el notebook principal del proyecto.
 
 ---
 
-# 📊 Dashboard Ejecutivo
+# Dashboard Ejecutivo
 
 Como complemento al análisis desarrollado en Python, el proyecto incorpora un **Dashboard Ejecutivo en Power BI**, orientado a facilitar la exploración e interpretación de los principales resultados obtenidos durante el proceso de minería de datos.
 
@@ -161,7 +161,7 @@ El dashboard permite visualizar de manera gráfica indicadores relevantes, métr
 
 ---
 
-# 📁 Estructura del Repositorio
+# Estructura del Repositorio
 
 ```text
 WeatherAUS-Data-Mining/
@@ -181,17 +181,17 @@ WeatherAUS-Data-Mining/
 
 ---
 
-# 🚀 Cómo utilizar este repositorio
+# Cómo utilizar este repositorio
 
 Para comprender el desarrollo del proyecto se recomienda seguir el siguiente orden:
 
 1. Leer este README para conocer el contexto y alcance del proyecto.
 2. Revisar el notebook **ET_PreparandoDatosClimaticos_DataMining.ipynb**, donde se documenta detalladamente cada fase de la metodología CRISP-DM.
-3. Explorar el archivo **DashboardEjecutivo_DatosClimaticos_MineriaDatos.pbix** para visualizar los resultados obtenidos mediante Power BI.
+3. Explorar el archivo **DashboardEjecutivo_DatosClimaticos_MineriaDatos.pbix** o el PDF para visualizar los resultados obtenidos mediante Power BI.
 
 ---
 
-# 👨‍💻 Autor
+# Autor
 
 **Leonel Vittorio González Escalona**
 
