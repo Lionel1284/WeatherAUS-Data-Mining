@@ -137,7 +137,7 @@ El dashboard permite visualizar de manera gráfica indicadores relevantes, métr
 
 ---
 
-# 🛠️ Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
 ### Lenguaje y Entorno
 
